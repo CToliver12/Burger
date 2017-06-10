@@ -1,0 +1,50 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #D3D3D3;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}	
+
+h1{
+	text-align: center;
+}
+
+h2{ 
+	padding: 5px;
+ }
+
+ li{
+ 	padding: 3px;
+ }
+
+ button{ 
+ 		padding: 4px;
+ 		margin: 2px;
+ }
+
+ #uneaten{ 
+ 		width: 400px;
+ 		float: left;
+ 		margin: 20px;
+ 		background: #CCFFDA;
+  }
+
+  #eaten{
+  	width: 400px;
+  	float: right;
+  	background: #CCFFDA;
+  	margin: 20px;
+  }
+
+  #add{
+  	clear: both;
+  	text-align: center;
+  	background: #CCFFDA;
+  	margin: 20px;
+  }
+
+ img{ 
+ 		width: 250px; 
+ 	}
+
